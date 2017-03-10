@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">FuliCenter</string>
+    <string name="app_name">FuLiCenter</string>
+    <string name="Version_number_is_wrong">Version number is wrong</string>
+    <string name="now_refresh">now_refresh</string>
+    <string name="no_more">no more</string>
+    <string name="load_more">load more</string>
 </resources>
